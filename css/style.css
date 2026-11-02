@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #f5f6fa;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 10px;
+}
+
+.invitation{
+    width: 500px;
+    min-height: 660px;
+    background-color: #f9f9f7;
+    box-shadow: 2px 0px 15px 1px rgba(46,46,46,0.77);
+    text-align: center;
+    padding: 35px 25px;
+    color: #292929;
+}
+
+.main-title{
+    margin-top: 5px;
+    margin-bottom: 30px;
+    line-height: 1;
+
+}
+
+.the{
+    font-family: 'Great Vibes', cursive;
+    font-size: 80px;
+    font-weight: 300;
+    transform: rotate(-5deg);
+}
+
+.wedding{
+    font-family: 'Great Vibes', cursive;
+    font-size: 100px;
+    font-weight: 300;
+    transform: rotate(-5deg);
+    margin-top: 5px;
+}
+
+.of{
+    font-family: 'Great Vibes', cursive;
+    font-size: 80px;
+    margin-top: 0;
+}
+
+.names{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 3px;
+    margin-top: 40px;
+}
+
+.join-text{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 3px;
+    margin-top: 40px;
+}
+
+.date{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 3px;
+    margin-top: 30px;
+}
+
+.location{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 3px;
+    margin-top: 30px;
+}
+
+.reception{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 13px;
+    font-style: italic;
+    letter-spacing: 3px;
+    margin-top: 30px;
+}
